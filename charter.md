@@ -8,4 +8,4 @@
 - Self sabotaging myself by procrastinating.
 - Trouble managing time to study.
 - Needing to go back and review subjects before completing projects.
-[Link to my GitHub. ] (https://github.com/2677sj227c-netizen)
+Link to my GitHub.  (https://github.com/2677sj227c-netizen)
